@@ -22,7 +22,7 @@ The goal was to accurately categorize water samples using complex environmental 
 
 ---
 ### Evidence
-See the attached [Participation_Certificate.pdf](./Participation_Certificate.pdf) for official recognition.
+See the attached [Participation_Certificate.pdf](./Datathon.pdf) for official recognition.
 
 
 Si hay notebooks que ya no funcionen, correr:
